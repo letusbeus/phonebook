@@ -1,0 +1,3 @@
+18:36 error message: not enough values to unpack (expected 3, got 2).
+18:37 error message: not enough values to unpack (expected 3, got 2).
+19:12 error message: invalid literal for int() with base 10: 'exit'.
