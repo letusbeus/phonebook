@@ -10,7 +10,7 @@
 - [Ксения](https://github.com/letusbeus):  Импорт/Экспорт, README.md
 - [Роман](https://github.com/AndarkRA):  Сведение всех классов в итоговый проект
 ## :hammer_and_wrench: Структура  
-### 
+#### Управление приложением
 - main.py - основной модуль проекта, запуск приложения  
 - UI.py - view  
 - ExitCommand.py - завершение работы приложения  
